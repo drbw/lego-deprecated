@@ -6,7 +6,7 @@ import (
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/go-acme/lego/v3/challenge"
-	"github.com/go-acme/lego/v3/providers/dns"
+	"github.com/drbw/lego/v3/providers/dns"
 	"github.com/mholt/acmez"
 	"github.com/mholt/acmez/acme"
 )
