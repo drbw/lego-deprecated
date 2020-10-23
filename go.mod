@@ -1,4 +1,5 @@
 module github.com/drbw/lego-deprecated
+replace github.com/caddy-dns/lego-deprecated => github.com/drbw/lego-deprecated
 
 go 1.14
 
